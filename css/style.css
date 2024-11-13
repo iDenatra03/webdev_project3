@@ -151,6 +151,10 @@ ul {
   #Starters h3 {
     font-size: 1.5em;
   }
+
+  #main-content h2 {
+    font-size: 1.25em;
+  }
 }
 
 
@@ -174,6 +178,10 @@ ul {
   }
 
   #Starters h3 {
+    font-size: 2em;
+  }
+
+  #main-content h2 {
     font-size: 2em;
   }
 }
