@@ -150,6 +150,25 @@ ul {
 }
 
 
+@media (min-width: 992px) {
+  nav#main-nav ul {
+    float: none;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  #header-bears h1 {
+    font-size: 2.5em;
+  }
+
+  header h1 {
+    font-size: 2.5em;
+  }
+
+  #main-content {
+    padding: 2em;
+  }
+}
 
 
 
